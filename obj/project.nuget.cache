@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6XhKfbAb2djwzXJHJQi8aW6qUXjYsID5eDZwXmeDr2aUuSSsJUHhGn21e8h4K5QazRlASkbQZkY59R8j+9+QTg==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\Projects\\AutoTest\\AutoTest\\AutoTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sardo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\sardo\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
